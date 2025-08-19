@@ -11,8 +11,7 @@ This project is designed as an **educational reference** for developers learning
 
 ---
 
-## ✨ Features
-
+✨ Features
 * **State Management**
   * Reactive (`.obs + Obx`) and non-reactive (`GetBuilder`) examples
 * **Navigation**
@@ -28,8 +27,8 @@ This project is designed as an **educational reference** for developers learning
 
 
 ## 🖼️ Screenshots
-
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/6fb161c7-25c3-4728-977c-d19a43547255" width="250" /> <img src="https://github.com/user-attachments/assets/9f99e79f-ff9d-48ae-a72d-b60662d9f087" width="250" /> <img src="https://github.com/user-attachments/assets/a83c78b5-44e6-44ca-b726-6a475f09d089" width="250" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/3a52cdfc-5ea5-4ef7-9e64-4a7ad0fc2efc" width="250" /> <img src="https://github.com/user-attachments/assets/fa2acf6c-30dc-45d5-8c22-29fde491ee62" width="250" /> <img src="https://github.com/user-attachments/assets/cb0be5b2-e66c-4492-bb5d-d074bc7318d7" width="250" /> </p>
+https://github.com/user-attachments/assets/4887efa7-0cb7-4d6f-8044-ba7166846092
 
 ## 📂 Project Structure
 lib/
